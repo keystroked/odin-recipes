@@ -1,0 +1,47 @@
+.recipe-indexer{
+    background-color:#282A36;
+}
+
+p{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+
+}
+
+img.center{
+    width:400px;
+    height:auto;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+a:link{
+    color:#8BE9FD;
+    font-size:32px;
+    
+}
+
+a:visited{
+    color: #61a5b4;
+}
+
+a:hover{
+    color: #3bd1f3;
+}
+
+.list-item{
+    font-family:'Courier New', Courier, monospace;
+    color: #635383;
+}
+
+.main-header{
+    text-align:center;
+    color:rgb(255, 255, 255);
+    font-size:68px;
+
+}
